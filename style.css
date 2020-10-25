@@ -1,0 +1,81 @@
+* {
+    font-family: 'PT Serif', serif;
+}
+
+#navbarToggleExternalContent {
+    background-color: #63480f;
+}
+
+.navbar-toggler:hover {
+    background-color: #63480f;
+    border: 2px solid #63480f;
+    color: white;
+}
+
+.lead {
+    font-size: 50px;
+}
+
+small {
+    color: #1B5054; 
+}
+
+.offer-btn:hover {
+    background-color: #1B5054; 
+    color: white;
+}
+
+.btn-default:hover {
+    background-color: #1B5054; 
+    border: 2px solid #1B5054;
+}
+
+.offer-btn {
+    font-size: 15px;
+    color: #1c5155; 
+    border: 2px solid #1c5155; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hotel-card:hover {
+    background-color: #f8f5ed;
+}
+
+.fa-chevron-right {
+    font-size: 10px;
+}
+
+.fa-facebook-f {
+    background-color: #3B5997; 
+    font-size: 10px;
+}
+
+.fa-twitter {
+    background-color: #00aced; 
+    font-size: 10px;
+}
+
+.fa-linkedin-in {
+    background-color: #0074A1; 
+    font-size: 10px;
+}
+
+.fa-instagram {
+    background-image: linear-gradient(to top, #FED373, #F15245, #D92E7F, #9B36B7, #515ECF); 
+    font-size: 10px;
+}
+
+.fa-google-plus-g {
+    background-color: #D64937; 
+    font-size: 8px;
+}
+
+.fa-heart:hover {
+    color: white;
+}
+
